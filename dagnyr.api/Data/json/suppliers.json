@@ -1,0 +1,81 @@
+[
+    {
+        "supplierId": 1,
+        "orderId": 1,
+        "productId": 1,
+        "pricePerKg": 10.0,
+        "supplierName": "Adrian",
+        "supplierAddress": "Lund 111",
+        "contactPerson": "Michael",
+        "phoneNumber": "111 111",
+        "email": "adrian@gmail.com"
+        
+    },
+
+    {
+        "supplierId": 1,
+        "orderId": 1,
+        "productId": 2,
+        "pricePerKg": 20.0,
+        "supplierName": "Adrian",
+        "supplierAddress": "Lund 111",
+        "contactPerson": "Michael",
+        "phoneNumber": "111 111",
+        "email": "adrian@gmail.com"
+        
+    },
+
+    {
+        "supplierId": 2,
+        "orderId": 2,
+        "productId": 3,
+        "pricePerKg": 30.0,
+        "supplierName": "Erik",
+        "supplierAddress": "Malmö 222",
+        "contactPerson": "Michael",
+        "phoneNumber": "222 222",
+        "email": "erik@gmail.com"
+        
+    },
+
+    {
+        "supplierId": 2,
+        "orderId": 2,
+        "productId": 4,
+        "pricePerKg": 40.0,
+        "supplierName": "Erik",
+        "supplierAddress": "Malmö 222",
+        "contactPerson": "Michael",
+        "phoneNumber": "222 222",
+        "email": "erik@gmail.com"
+        
+    },
+
+    {
+        "supplierId": 3,
+        "orderId": 3,
+        "productId": 5,
+        "pricePerKg": 50.0,
+        "supplierName": "Thomas",
+        "supplierAddress": "Stockholm 333",
+        "contactPerson": "Michael",
+        "phoneNumber": "333 333",
+        "email": "thomas@gmail.com"
+        
+    },
+
+    {
+        "supplierId": 3,
+        "orderId": 3,
+        "productId": 6,
+        "pricePerKg": 60.0,
+        "supplierName": "Thomas",
+        "supplierAddress": "Stockholm 333",
+        "contactPerson": "Michael",
+        "phoneNumber": "333 333",
+        "email": "thomas@gmail.com"
+        
+    }
+
+
+]

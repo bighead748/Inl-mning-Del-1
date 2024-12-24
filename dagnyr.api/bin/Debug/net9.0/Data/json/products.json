@@ -1,0 +1,37 @@
+[
+    {
+        "itemNumber": "AAA111",
+        "productName":  "Mjöl",
+        "price": 0.0
+    },
+
+    {
+        "itemNumber": "BBB222",
+        "productName":  "MjölK",
+        "price": 0.0
+    },
+
+    {
+        "itemNumber": "CCC333",
+        "productName":  "Socker",
+        "price": 0.0
+    },
+
+    {
+        "itemNumber": "DDD444",
+        "productName":  "Salt",
+        "price": 0.0
+    },
+
+    {
+        "itemNumber": "EEE555",
+        "productName":  "Honung",
+        "price": 0.0
+    },
+
+    {
+        "itemNumber": "FFF666",
+        "productName":  "Vatten",
+        "price": 0.0
+    }
+]
